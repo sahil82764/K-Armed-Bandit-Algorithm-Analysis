@@ -1,7 +1,6 @@
 # Multi-Armed Bandit Learning Algorithms
 
 **Student:** Sahil Khan  
-**Course:** DSCI 6650-001: Reinforcement Learning  
 **Date:** June 18, 2025  
 **Assignment:** k-Armed Bandit Learning Algorithms
 
