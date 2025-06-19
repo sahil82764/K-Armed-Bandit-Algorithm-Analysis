@@ -100,5 +100,4 @@ The notebook generates multiple plots showing:
 If you use this code or analysis, please reference:
 ```
 Khan, S. (2025). Multi-Armed Bandit Learning Algorithms Analysis. 
-DSCI 6650-001: Reinforcement Learning Assignment 1.
 ```
